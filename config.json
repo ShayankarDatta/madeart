@@ -1,0 +1,17 @@
+{
+    "PORT": 3000,
+    "MONGO_SRV": "mongodb+srv://jeet:datta@cluster0.f7fnnwn.mongodb.net/madeArt?retryWrites=true&w=majority",
+    "BASE_URL": "http://localhost:3000/",
+    "BASE_URL_server": "http://localhost:3000/",
+    "JWT_PRIVATE_KEY": "sha1$3I7HRwy7$cbfdac6008f9cab4081874f7,",
+    "API_SECRET_TOKEN": "cbfdac6008f9cab40sdff22f76618d2a97",
+    "API_SECRET_KEY": "%^*&(huihd45^$^$&(*^$@$#))",
+    "PASSWORD" : {
+        "SALT" : 10,
+        "HASH_KEY" : "ys1Nf6H$^%@R&^(&^&&7Y78MS0Lb@"
+    },
+    "MAIL_CONFIG": {
+        "MAIL_USERNAME": "shayankardatta@gmail.com",
+        "MAIL_PASSWORD": "mwtobfbkaxijrtvv"
+    }
+}
