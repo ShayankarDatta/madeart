@@ -28,6 +28,7 @@ exports.register = async (req, res) => {
         email: 'required|string',
         password: 'required|string',   
     });
+    
 
     const matched = await v.check();
 
